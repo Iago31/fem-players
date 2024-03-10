@@ -2,12 +2,15 @@
 title: Feiticeiros & Maldições - A Era de Ouro
 ---
 
-Fala galera do barulho
+Oi :D
 
--
+Conjunto de informações pra vocês acessarem
 
-**Técnicas:**
+Favor não acessar as informações dos outros players senão taco um Sukuna na tua cabeça >:)
 
-[[Ruptura Espacial]]
-[[Conexão]]
-[[Godai]]
+### **Info Players**
+
+[[Érica]] | [[Roger]] | [[Biah]] | [[William]] | [[Topsy]]
+
+### **Infos Gerais**
+- [[Combate]]
