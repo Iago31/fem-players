@@ -9,10 +9,10 @@ tags:
 
 ---
 
-**Descrição**
+**Descrição:**
 Permite ao usuário criar rupturas na fábrica do espaço através de impactos e cortes, o que o permite criar ondas de choque, cortar a distância, entre outros efeitos. Esta técnica está conectada a uma maldição misteriosa, e portanto, muitos de seus efeitos são desconhecidos.
 
-**Funcionamento**
+**Funcionamento:**
 Esta habilidade é poderosa, porém é prejudicial ao corpo físico do usuário, pois assim como o alvo, o usuário está próximo as ondas de choque e habilidades criadas pela própria técnica, e é afetado por elas. Por conta disso, usuários recebem as seguintes propriedades:
 
 - Os dados de dano da técnica aumentam em 1 para cada nível da habilidade (este bônus aumenta em 1 de acordo com o aumento do seu nível de maestria).
