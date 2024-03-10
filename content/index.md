@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Feiticeiros & Maldições - A Era de Ouro
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Fala galera do barulho
+
+-
+
+**Técnicas:**
+
+[[Ruptura Espacial]]
+[[Conexão]]
+[[Godai]]
