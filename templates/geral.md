@@ -1,6 +1,5 @@
 ---
-title: Example Title
-draft: false
+aliases: []
 tags:
   - example-tag
 ---
