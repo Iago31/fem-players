@@ -1,6 +1,5 @@
 ---
-title: Empurrar
-draft: false
+aliases: []
 tags:
   - ação-comum
 ---

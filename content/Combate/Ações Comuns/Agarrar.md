@@ -1,8 +1,7 @@
 ---
-title: Agarrar
-draft: false
+aliases: []
 tags:
-  - comum
+  - ação-comum
 ---
 
 Uma variação da ação de [[Atacar|Ataque]].

@@ -4,5 +4,7 @@ title: Feiticeiros & Maldições - A Era de Ouro
 
 Oi :D
 
-### **Infos Gerais**
-- [[Combate]]
+## [[Combate]]
+
+## [[Descanso]] & [[Downtime]]
+- [[Kits de Ferramenta]]

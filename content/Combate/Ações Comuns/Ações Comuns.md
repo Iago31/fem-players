@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Ação Comum]
 tags:
   - index
 ---

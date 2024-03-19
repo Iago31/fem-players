@@ -1,6 +1,5 @@
 ---
-title: Apoiar
-draft: false
+aliases: []
 tags:
   - ação-comum
 ---

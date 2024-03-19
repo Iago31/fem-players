@@ -1,6 +1,5 @@
 ---
-title: Atacar
-draft: false
+aliases: []
 tags:
   - ação-comum
 ---
